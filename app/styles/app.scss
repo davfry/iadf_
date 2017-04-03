@@ -6,3 +6,112 @@
 @include foundation-everything;
 
 // Components
+
+.fullWidth {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: initial;
+}
+
+.noGutter {
+  padding: none;
+}
+
+.bottom-half {
+  height: 100vh;
+  display: flex;
+}
+
+.bottom-left {
+  height: 100vh;
+  background-color: #000;
+  display: flex;
+}
+
+.bottom-right {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.bottom-left-text {
+  font-size: 55px;
+  margin: auto;
+  color: #fff;
+  font-weight: 600;
+}
+
+.menu {
+  display: flex;
+  flex-direction: column;
+  height: 60%;
+  margin: auto;
+}
+
+.menu-item {
+  margin: auto;
+  color: #fff !important;
+  text-transform: uppercase !important;
+  font-size: 2rem !important;
+  background: black;
+  padding: .5rem .25rem;
+  &:hover {
+    color: #E4A492 !important;
+    text-decoration: none !important;
+  }
+}
+
+.menu-container {
+  display: flex;
+  height: 100%;
+}
+
+
+.modal-overlay {
+  position: absolute;
+  top: 0px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  z-index: 10;
+  display: flex;
+}
+
+.modal {
+  box-shadow: -1px 4px 5px 1px hsla(0, 0%, 0%, 0.5);
+  background-color: #fefefe;
+  margin: auto;
+  height: 25vh;
+  display: flex;
+}
+
+.modal-close {
+  text-align: right;
+  color: pink;
+  padding-right: 1rem;
+  padding-top: 1rem;
+}
+
+.modal-close-x {
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.modal-menu {
+  display: flex;
+  margin: auto;
+}
+
+.modal-menu-item {
+  margin: auto 1rem;
+  color: #fff !important;
+  text-transform: uppercase !important;
+  font-size: 2rem !important;
+  background: black;
+  padding: .5rem .25rem;
+  &:hover {
+    color: #E4A492 !important;
+    text-decoration: none !important;
+  }
+}

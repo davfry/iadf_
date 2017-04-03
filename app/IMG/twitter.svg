@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M24,48 L56.0089949,48 C57.6572461,48 59,46.6572077 59,45.0007894 L59,15.9992106 C59,14.3505957 57.6608814,13 56.0089949,13 L5.99100514,13 C4.34275388,13 3,14.3427923 3,15.9992106 L3,45.0007894 C3,46.6494043 4.33911861,48 5.99100514,48 L13,48 L18.0549708,58.1099416 C18.2982702,58.5965404 18.6992464,58.6015073 18.9450292,58.1099416 L24,48 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="56" height="45.4767557" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" stroke="#000000">
+            <use id="Combined-Shape" mask="url(#mask-2)" stroke-width="6" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <path d="M26.5,21.5 L26.5,38.5293864" id="Line" stroke-width="3" stroke-linecap="round"></path>
+            <path d="M34.5,21.5 L34.5,38.5293864" id="Line-Copy-2" stroke-width="3" stroke-linecap="round"></path>
+            <path d="M39.0293864,26 L22,26" id="Line-Copy" stroke-width="3" stroke-linecap="round"></path>
+            <path d="M39.0293864,34 L22,34" id="Line-Copy-3" stroke-width="3" stroke-linecap="round"></path>
+        </g>
+    </g>
+</svg>

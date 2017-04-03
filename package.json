@@ -1,7 +1,7 @@
 {
   "name": "boilerplate",
   "version": "1.0.0",
-  "description": "React boilderplate",
+  "description": "iadf_",
   "main": "index.js",
   "scripts": {
     "test": "karma start",
